@@ -4,9 +4,10 @@
 
 ## Current status and focus (2022)
 - Leading software development teams for early to mid-stage startups as a Fractional CxO
-- Researching and advising on web3 strategy and related topics
+- Researching and advising on web3 strategy and solidity development
 - Active Full-stack development using Go, NextJS, Postgresql, AWS, TailwindCSS
 - Researching climate change and longevity topics.
+
 ## Background
 Over 15 years leading software and product for cloud startups (ex. VPE @ SendGrid, VPProd @ Automox, Techstars). Web3 advisor and Gitcoin [KERNEL Fellow ](https://kernel.community).
 
