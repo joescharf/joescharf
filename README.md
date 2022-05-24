@@ -2,11 +2,13 @@
 
 👋 Hello and welcome 👋
 
-## Current status and focus (2022)
+## Current status and focus (May 2022)
 - Leading software development teams for early to mid-stage startups as a Fractional CxO
-- Researching and advising on web3 strategy and solidity development
 - Active Full-stack development using Go, NextJS, Postgresql, AWS, TailwindCSS
 - Researching climate change and longevity topics.
+
+## Working On and Projects (May 2022)
+- [DBSnapper[(https://dbsnapper.com) - Database Snapshots for Development and Testing
 
 ## Background
 Over 15 years leading software and product for cloud startups (ex. VPE @ SendGrid, VPProd @ Automox, Techstars).
