@@ -9,7 +9,7 @@
 - Researching climate change and longevity topics.
 
 ## Background
-Over 15 years leading software and product for cloud startups (ex. VPE @ SendGrid, VPProd @ Automox, Techstars). Web3 advisor and Gitcoin [KERNEL Fellow ](https://kernel.community).
+Over 15 years leading software and product for cloud startups (ex. VPE @ SendGrid, VPProd @ Automox, Techstars).
 
 Active full-stack and founding engineer roles, I have built SaaS systems from the first-line-of-code that now support hundreds of thousands of transactions per year.
 
