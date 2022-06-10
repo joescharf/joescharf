@@ -1,14 +1,14 @@
-# Joe Scharf - Tech Leader, Full Stack Developer
+# Joe Scharf - Tech Leader, Startup CxO operator & advisor, Investor
 
 👋 Hello and welcome 👋
 
-## Current status and focus (May 2022)
+## Current status and focus (2022)
 - Leading software development teams for early to mid-stage startups as a Fractional CxO
 - Active Full-stack development using Go, NextJS, Postgresql, AWS, TailwindCSS
 - Researching climate change and longevity topics.
 
-## Working On and Projects (May 2022)
-- [DBSnapper[(https://dbsnapper.com) - Database Snapshots for Development and Testing
+## Working On and Projects (2022)
+- [DBSnapper](https://dbsnapper.com) - Database Snapshots for Development and Testing
 
 ## Background
 Over 15 years leading software and product for cloud startups (ex. VPE @ SendGrid, VPProd @ Automox, Techstars).
