@@ -4,8 +4,7 @@
 
 ## Current status and focus (2022)
 - Leading software development teams for early to mid-stage startups as a Fractional CxO
-- Active Full-stack development using Go, NextJS, Postgresql, AWS, TailwindCSS
-- Researching climate change and longevity topics.
+- Active Full-stack development using Rails 7, Postgresql, AWS, TailwindCSS
 
 ## Working On and Projects (2022)
 - [DBSnapper](https://dbsnapper.com) - Database Snapshots for Development and Testing
@@ -18,7 +17,7 @@ Active full-stack and founding engineer roles, I have built SaaS systems from th
 In my earlier career I was an embedded software engineer in the Aerospace and Telecommunications industries
 
 ## Where to find me:
-- Twitter: https://twitter.com/joescharf
+- Mastodon: https://mastodon.sdf.org/@scharfnado
 - Linkedin: https://linkedin.com/in/joescharf
 - Website: https://joescharf.com
 
