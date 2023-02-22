@@ -2,11 +2,12 @@
 
 👋 Hello and welcome 👋
 
-## Current status and focus (2022)
+## Current status and focus (2023)
 - Leading software development teams for early to mid-stage startups as a Fractional CxO
 - Active Full-stack development using Rails 7, Postgresql, AWS, TailwindCSS
 
-## Working On and Projects (2022)
+## Working On and Projects (2023)
+- [MyZRL](https://myzrl.com) - eSports Team Management System for [Zwift Racing League](https://wtrl.racing)
 - [DBSnapper](https://dbsnapper.com) - Database Snapshots for Development and Testing
 
 ## Background
@@ -17,7 +18,7 @@ Active full-stack and founding engineer roles, I have built SaaS systems from th
 In my earlier career I was an embedded software engineer in the Aerospace and Telecommunications industries
 
 ## Where to find me:
-- Mastodon: https://mastodon.sdf.org/@scharfnado
+- Mastodon: https://universeodon.com/@scharfnado
 - Linkedin: https://linkedin.com/in/joescharf
 - Website: https://joescharf.com
 
