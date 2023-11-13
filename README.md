@@ -3,19 +3,21 @@
 👋 Hello and welcome 👋
 
 ## Current status and focus (2023)
-- Leading software development teams for early to mid-stage startups as a Fractional CxO
-- Active Full-stack development using Rails 7, Postgresql, AWS, TailwindCSS
+- Leading software development teams for early to mid-stage startups as a Fractional CTO
+- Active Full-stack development using Rails 7, NextJS, Postgresql, AWS, TailwindCSS
 
 ## Working On and Projects (2023)
+- [DBSnapper](https://dbsnapper.com) - DBSnapper automates the process of data snapshotting and de-identification.
+- [SupMonster](https://supmonster.io) - Effortless email suppression list management and customer refunds for support teams.
 - [MyZRL](https://myzrl.com) - eSports Team Management System for [Zwift Racing League](https://wtrl.racing)
-- [DBSnapper](https://dbsnapper.com) - Database Snapshots for Development and Testing
+
 
 ## Background
-Over 15 years leading software and product for cloud startups (ex. VPE @ SendGrid, VPProd @ Automox, Techstars).
+Over 20 years leading software and product for cloud startups (ex. VPE @ SendGrid, VPProd @ Automox, Techstars).
 
 Active full-stack and founding engineer roles, I have built SaaS systems from the first-line-of-code that now support hundreds of thousands of transactions per year.
 
-In my earlier career I was an embedded software engineer in the Aerospace and Telecommunications industries
+In my earlier career I was an embedded software engineer in the Aerospace and Telecommunications industries, developing in C and C++ on VxWorks and Embedded Linux (Buildroot) operating systems
 
 ## Where to find me:
 - Mastodon: https://universeodon.com/@scharfnado
