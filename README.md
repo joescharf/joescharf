@@ -3,7 +3,7 @@
 👋 Hello and welcome 👋
 
 ## Current status and focus (2023)
-- Leading software development teams for early to mid-stage startups as a Fractional CTO
+- Leading software development teams for early to mid-stage startups as a [Fractional CTO](https://fcto.io)
 - Active Full-stack development using Rails 7, NextJS, Postgresql, AWS, TailwindCSS
 
 ## Working On and Projects (2023)
