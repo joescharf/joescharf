@@ -1,15 +1,22 @@
-# Joe Scharf - Tech Leader, Startup CxO operator & advisor, Investor
+# Joe Scharf - Tech Leader, Startup CxO Operator & Advisor, Investor
 
 👋 Hello and welcome 👋
 
-## Current status and focus (2023)
+## Current status and focus (2024)
 - Leading software development teams for early to mid-stage startups as a [Fractional CTO](https://fcto.io)
-- Active Full-stack development using Rails 7, NextJS, Postgresql, AWS, TailwindCSS
+- Launched DBSnapper app.
 
-## Working On and Projects (2023)
+
+## Working On and Projects (2024)
 - [DBSnapper](https://dbsnapper.com) - DBSnapper automates the process of data snapshotting and de-identification.
-- [SupMonster](https://supmonster.io) - Effortless email suppression list management and customer refunds for support teams.
-- [MyZRL](https://myzrl.com) - eSports Team Management System for [Zwift Racing League](https://wtrl.racing)
+
+<p align="center">
+  <img alt="DBSnapper Logo" src="https://docs.dbsnapper.com/static/dbs-v2-launch-bg-wht.png?v=3&s=200" height="240" />
+  <h3 align="center">DBSnapper</h3>
+  <p align="center">Subset, Snapshot, Sanitize, Share</p>
+</p>
+
+
 
 
 ## Background
