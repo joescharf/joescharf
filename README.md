@@ -1,4 +1,4 @@
-# Joe Scharf - Tech Leader, Startup CxO Operator & Advisor, Investor
+# Joe Scharf - Fractional CTO
 
 👋 Hello and welcome 👋
 
