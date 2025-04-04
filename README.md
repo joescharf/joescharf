@@ -1,13 +1,13 @@
-# Joe Scharf - Fractional CTO
+# Joe Scharf
 
 👋 Hello and welcome 👋
 
-## Current status and focus (2024)
+## Current status and focus (2025)
 - Leading software development teams for early to mid-stage startups as a [Fractional CTO](https://fcto.io)
-- Launched DBSnapper app.
+- Building DBSnapper.
 
 
-## Working On and Projects (2024)
+## Working On and Projects (2025)
 - [DBSnapper](https://dbsnapper.com) - DBSnapper automates the process of data snapshotting and de-identification.
 
 <p align="center">
@@ -27,9 +27,8 @@ Active full-stack and founding engineer roles, I have built SaaS systems from th
 In my earlier career I was an embedded software engineer in the Aerospace and Telecommunications industries, developing in C and C++ on VxWorks and Embedded Linux (Buildroot) operating systems
 
 ## Where to find me:
-- Mastodon: https://universeodon.com/@scharfnado
+- Mastodon: https://m.joescharf.com/@joe
 - Linkedin: https://linkedin.com/in/joescharf
-- Website: https://joescharf.com
 
 ## Experience Highlights
 A chronological look at some of my accomplishments
