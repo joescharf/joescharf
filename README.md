@@ -16,7 +16,7 @@ I'm a [Fractional CTO](https://fcto.io) advising startups and PE-backed companie
 
 ## Background
 
-25+ years building and scaling engineering teams at SaaS startups. First employee and VP of Engineering at SendGrid (zero to $65M ARR). Helped run the first two Techstars Boulder classes and ongoing mentor. Started my career writing embedded C++ for satellite missions at Ball Aerospace.
+25+ years building and scaling engineering teams at SaaS startups. First employee and VP of Engineering at SendGrid (zero to $65M ARR). Helped run the first two Techstars Boulder classes and ongoing mentor. Started my career writing embedded C and C++ for satellite missions and telecom SONET multiplexers.
 
 - Blog: https://joescharf.com
 - LinkedIn: https://linkedin.com/in/joescharf
