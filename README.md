@@ -1,6 +1,6 @@
 # Joe Scharf
 
-I'm a [Fractional CTO](https://fcto.io) advising startups and PE-backed companies on business strategy and technical operations. I help engineering organizations adopt AI development tools safely and effectively. I've been building with AI coding agents for over a year now, and with the 2026 launch of Opus 4.6 and Codex 5.2, we've hit an inflection point. These tools are no longer optional for developers, product managers, or engineering leaders. I'm building tools and full applications in hours or days that used to take months, and I train teams to do the same.
+I'm a Fractional CTO advising startups and PE-backed companies on business strategy and technical operations. I help engineering organizations adopt AI development tools safely and effectively. I've been building with AI coding agents for over a year now, and with the 2026 launch of Opus 4.6 and Codex 5.2, we've hit an inflection point. These tools are no longer optional for developers, product managers, or engineering leaders. I'm building tools and full applications in hours or days that used to take months, and I train teams to do the same.
 
 ## What I'm Building
 
